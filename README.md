@@ -15,67 +15,67 @@ www.playgrd.com
 
 
 Chapter 0
-https://playgrdstar.github.io/noisy_movement_threejs/
-https://github.com/playgrdstar/noisy_movement_threejs
+- https://playgrdstar.github.io/noisy_movement_threejs/
+- https://github.com/playgrdstar/noisy_movement_threejs
 
 Chapter 1
-https://playgrdstar.github.io/bouncing_threejs/
-https://github.com/playgrdstar/bouncing_threejs
+- https://playgrdstar.github.io/bouncing_threejs/
+- https://github.com/playgrdstar/bouncing_threejs
 
 Chapter 2
-https://playgrdstar.github.io/forces_threejs/
-https://github.com/playgrdstar/forces_threejs
+- https://playgrdstar.github.io/forces_threejs/
+- https://github.com/playgrdstar/forces_threejs
 
-https://playgrdstar.github.io/attraction_threejs/
-https://github.com/playgrdstar/attraction_threejs
+- https://playgrdstar.github.io/attraction_threejs/
+- https://github.com/playgrdstar/attraction_threejs
 
-https://playgrdstar.github.io/fluid_threejs/
-https://github.com/playgrdstar/fluid_threejs
+- https://playgrdstar.github.io/fluid_threejs/
+- https://github.com/playgrdstar/fluid_threejs
 
 Chapter 3
-https://playgrdstar.github.io/oscillation_threejs
-https://github.com/playgrdstar/oscillation_threejs
+- https://playgrdstar.github.io/oscillation_threejs
+- https://github.com/playgrdstar/oscillation_threejs
 
 Chapter 4
-https://playgrdstar.github.io/particlesystem_threejs/
-https://github.com/playgrdstar/particlesystem_threejs
+- https://playgrdstar.github.io/particlesystem_threejs/
+- https://github.com/playgrdstar/particlesystem_threejs
 
 Chapter 5
-https://playgrdstar.github.io/flowfield_threejs/
-https://github.com/playgrdstar/flowfield_threejs
+- https://playgrdstar.github.io/flowfield_threejs/
+- https://github.com/playgrdstar/flowfield_threejs
 
-https://playgrdstar.github.io/pathfollowing_threejs/
-https://github.com/playgrdstar/pathfollowing_threejs
+- https://playgrdstar.github.io/pathfollowing_threejs/
+- https://github.com/playgrdstar/pathfollowing_threejs
 
-https://playgrdstar.github.io/separateseek_threejs/
-https://github.com/playgrdstar/separateseek_threejs
+- https://playgrdstar.github.io/separateseek_threejs/
+- https://github.com/playgrdstar/separateseek_threejs
 
-https://playgrdstar.github.io/flocking_threejs/
-https://github.com/playgrdstar/flocking_threejs
+- https://playgrdstar.github.io/flocking_threejs/
+- https://github.com/playgrdstar/flocking_threejs
 
 Chapter 7
-https://playgrdstar.github.io/wolfram_ca_threejs/
-https://github.com/playgrdstar/wolfram_ca_threejs
+- https://playgrdstar.github.io/wolfram_ca_threejs/
+- https://github.com/playgrdstar/wolfram_ca_threejs
 
-https://playgrdstar.github.io/gameoflife_threejs/
-https://github.com/playgrdstar/gameoflife_threejs
+- https://playgrdstar.github.io/gameoflife_threejs/
+- https://github.com/playgrdstar/gameoflife_threejs
 
 Chapter 8
-https://playgrdstar.github.io/recursion_threejs/
-https://github.com/playgrdstar/recursion_threejs
+- https://playgrdstar.github.io/recursion_threejs/
+- https://github.com/playgrdstar/recursion_threejs
 
-https://playgrdstar.github.io/fractaltree_threejs/
-https://github.com/playgrdstar/fractaltree_threejs
+- https://playgrdstar.github.io/fractaltree_threejs/
+- https://github.com/playgrdstar/fractaltree_threejs
 
-https://playgrdstar.github.io/koch_threejs/
-https://github.com/playgrdstar/koch_threejs
+- https://playgrdstar.github.io/koch_threejs/
+- https://github.com/playgrdstar/koch_threejs
 
-https://playgrdstar.github.io/LSystem_threejs/
-https://github.com/playgrdstar/LSystem_threejs
+- https://playgrdstar.github.io/LSystem_threejs/
+- https://github.com/playgrdstar/LSystem_threejs
 
 Chapter 9
-https://playgrdstar.github.io/geneticalgorithm_threejs/
-https://github.com/playgrdstar/geneticalgorithm_threejs
+- https://playgrdstar.github.io/geneticalgorithm_threejs/
+- https://github.com/playgrdstar/geneticalgorithm_threejs
 
 www.playgrd.com
 
